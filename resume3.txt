@@ -1,0 +1,23 @@
+Priya Kapoor  
+Email: priya.kapoor@example.com | Phone: +91-9988776655  
+LinkedIn: linkedin.com/in/priyak | Location: Pune, India
+
+Professional Summary:
+Full Stack Developer with 2 years of experience building scalable web applications using JavaScript frameworks. Adept at both frontend and backend development with a focus on clean, maintainable code.
+
+Skills:
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js, MongoDB
+- Tools: Git, VS Code, Postman
+
+Experience:
+Full Stack Developer | WebWonders Pvt. Ltd., Pune | Jul 2022 – Present
+- Developed dynamic e-commerce platforms using MERN stack.
+- Integrated REST APIs and implemented JWT authentication.
+- Reduced page load time by 40% through frontend optimization.
+
+Education:
+B.Tech in Information Technology | MIT College of Engineering, Pune | 2022
+
+Certifications:
+- MERN Stack Developer – Udemy

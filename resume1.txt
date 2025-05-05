@@ -1,0 +1,23 @@
+Sneha Reddy  
+Email: sneha.reddy@example.com | Phone: +91-9001234567  
+LinkedIn: linkedin.com/in/snehareddy | Location: Hyderabad, India
+
+Professional Summary:
+Business Intelligence Analyst with 2.5 years of experience in transforming raw data into actionable insights. Skilled in Python, SQL, Power BI, and Data Wrangling.
+
+Skills:
+- BI Tools: Power BI, Excel, Tableau
+- Programming: Python, SQL
+- Data Modeling, Data Cleaning, KPI Dashboards
+
+Experience:
+BI Analyst | Infosys Ltd., Hyderabad | Aug 2021 – Present
+- Built KPI dashboards for internal sales analysis using Power BI.
+- Streamlined data pipelines to reduce data processing time by 30%.
+- Delivered weekly executive summaries based on business performance trends.
+
+Education:
+M.Sc. in Data Science | Osmania University | 2021
+
+Achievements:
+- Presented research paper on "AI in Healthcare Diagnostics" at DataSciCon 2023

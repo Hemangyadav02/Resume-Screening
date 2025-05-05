@@ -1,0 +1,24 @@
+Aman Verma  
+Email: aman.verma@example.com | Phone: +91-9123456789  
+LinkedIn: linkedin.com/in/amanverma | Location: Noida, India
+
+Professional Summary:
+Data Analyst with 3 years of experience interpreting and analyzing data to drive business solutions. Expert in Excel, SQL, Tableau, and Python-based analytics.
+
+Skills:
+- Data Analysis: SQL, Excel, Python (Pandas, NumPy)
+- Visualization: Tableau, Power BI
+- Statistical Analysis, Predictive Modeling
+
+Experience:
+Data Analyst | Tata Consultancy Services (TCS), Noida | Feb 2021 – Present
+- Automated reporting system using Python and SQL that reduced reporting time by 50%.
+- Created interactive Tableau dashboards for marketing insights.
+- Developed ML models to predict customer churn with 85% accuracy.
+
+Education:
+B.Sc. in Computer Science | Delhi University | 2020
+
+Projects:
+- Customer Churn Prediction Model
+- Sales Forecasting using Time Series Analysis
